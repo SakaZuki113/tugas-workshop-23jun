@@ -4,6 +4,10 @@
     font-family: 'Roboto', sans-serif;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 /* Header */
 header {
     background-color: #4CAF50;
