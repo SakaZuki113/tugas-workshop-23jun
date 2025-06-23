@@ -186,7 +186,6 @@ nav ul li a {
     text-align: center;
 }
 
-/* Saat layar kecil (HP), pindah tombol ke bawah */
 @media (max-width: 600px) {
     .gallery-wrapper {
         flex-direction: column;
@@ -203,7 +202,6 @@ nav ul li a {
     }
 }
 
-/* Responsive */
 @media (max-width: 768px) {
     .card-wrapper {
         flex-direction: column;
